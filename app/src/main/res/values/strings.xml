@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Greek Mythology</string>
+
+    <!--Main titles-->
+    <!--"Gods","Heroes","Myths","Places","Items","Gigantes","Zodiac","Creatures"-->
+    <string name="main_gods">Gods</string>
+    <string name="main_heroes">Heroes</string>
+    <string name="main_myths">Myths</string>
+    <string name="main_places">Places</string>
+    <string name="main_items">Items</string>
+    <string name="main_titans">Titans</string>
+    <string name="main_gigantes">Gigantes</string>
+    <string name="main_zodiac">Zodiac</string>
+    <string name="main_creatures">Creatures</string>
+    <string name="main_planets">Planets</string>
+
+    <!--Gods activity-->
+    <!--Aphrodite Apolli Ares Athena Hades Hephaestus Hera hermes hestia poseidon zeyus-->
+    <string name="gods_aphrodite">Aphrodite</string>
+    <string name="gods_apollo">Apollo</string>
+    <string name="gods_ares">Ares</string>
+    <string name="gods_artemis">Artemis</string>
+    <string name="gods_athena">Athena</string>
+    <string name="gods_hades">Hades</string>
+    <string name="gods_hephaestus">Hephaestus</string>
+    <string name="gods_hera">Hera</string>
+    <string name="gods_hermes">Hermes</string>
+    <string name="gods_hestia">Hestia</string>
+    <string name="gods_poseidon">Poseidon</string>
+    <string name="gods_zeus">Zeus</string>
+
+    <!--Heroes activity-->
+    <!--Achilles Actaeon aeneas atlanta bellerpophon dioscuri heracles jason meleager idysseus peleys perseys theseus-->
+    <string name="heroes_achilles">Achilles</string>
+    <string name="heores_actaeon">Actaeon</string>
+    <string name="heroes_aeneas">Aeneas</string>
+    <string name="heroes_atlanta">Atlanta</string>
+    <string name="heroes_bellerophon">Bellerophon</string>
+    <string name="heroes_dioscuri">Dioscuri</string>
+    <string name="heroes_heracles">Heracles</string>
+    <string name="heroes_jason">Jason</string>
+    <string name="heroes_meleager">Meleager</string>
+    <string name="heroes_odysseus">Odysseus</string>
+    <string name="heroes_peleus">Peleus</string>
+    <string name="heroes_perseus">Perseus</string>
+    <string name="heroes_theseus">Theseus</string>
+
+    <!--Myths activity-->
+    <!--Adventures of Perseus :: Ages of Man :: Amalthea's Horn :: Argonauts :: Birth of Athena ::
+    Creation of Man by Prometheus :: Gigantomachy :: Labours of Heracles :: Myth of Er ::
+    Seven Against Thebes :: The Creation :: The Creation II :: The Wanderings of Dionysus ::
+    Theseus Adventures :: Titanomachy :: Trojan War :: Zeus's Lovers-->
+    <string name="myths_perseus">Adventures of Perseus</string>
+    <string name="myths_age_of_man">Ages of Man</string>
+    <string name="myths_amaltheas_horn">Amaltheas Horn</string>
+    <string name="myths_argonauts">Argonauts</string>
+    <string name="myths_athena_birth">Birth of Athena</string>
+    <string name="myths_creation_prometheus">Creation of Man</string>
+    <string name="myths_gigantomachy">Gigantomachy</string>
+    <string name="myths_heracles">Labours of Heracles</string>
+    <string name="myths_er">Myth of Er</string>
+    <string name="myths_againts_thebes">Seven Against Thebes</string>
+    <string name="myths_creation">The Creation</string>
+    <string name="myths_creation_ii">The Creation II</string>
+    <string name="myths_dionysus">Dionysus Wanderings</string>
+    <string name="myths_thesus">Theseus Adventures</string>
+    <string name="myths_titanomachy">Titanomachy</string>
+    <string name="myths_trojan_war">Trojan War</string>
+    <string name="myths_zeus_lovers">Zeus Lovers</string>
+
+    <!--Places-->
+    <!--Aeaea :: Arcadia :: Athens :: Aulis :: Calydon :: Colchis :: Corinth :: Crete ::
+    Delphi :: Iolcus :: Ithaca :: Lerna :: Lycia :: Mount Olympus :: Nemea :: Sparta ::
+    Tauris :: The Underworld :: Thebes :: Troy-->
+    <string name="places_aeaea">Aeaea</string>
+    <string name="places_arcadia">Arcadia</string>
+    <string name="places_athens">Athens</string>
+    <string name="places_aulis">Aulis</string>
+    <string name="places_calydon">Calydon</string>
+    <string name="places_colchis">Colchis</string>
+    <string name="places_corinth">Corinth</string>
+    <string name="places_crete">Crete</string>
+    <string name="places_delphi">Delphi</string>
+    <string name="places_iolcus">Iolcus</string>
+    <string name="places_ithaca">Ithaca</string>
+    <string name="places_lerna">Lerna</string>
+    <string name="places_lycia">Lycia</string>
+    <string name="places_mounth_olympus">Mount Olympus</string>
+    <string name="places_nemea">Nemea</string>
+    <string name="places_sparta">Sparta</string>
+    <string name="places_trauris">Tauris</string>
+    <string name="places_underworld">The Underworld</string>
+    <string name="places_thebes">Thebes</string>
+    <string name="places_troy">Troy</string>
+
+    <!--Items-->
+    <!--Aegis :: Ambrosia :: Golden Fleece :: Ichor :: Necklace of Harmonia :: Nectar ::
+    Shield of Achilles :: Shirt of Nessus-->
+    <string name="items_aegis">Aegis</string>
+    <string name="items_ambrosia">Ambrosia</string>
+    <string name="items_golden_fleece">Golden Fleece</string>
+    <string name="items_inchor">Ichor</string>
+    <string name="items_neclase_of_harmonia">Necklace of Harmonia</string>
+    <string name="items_nectar">Nectar</string>
+    <string name="items_shield_achilles">Shield of Achilles</string>
+    <string name="items_nessus">Shirt of Nessus</string>
+
+    <!--Zodiac-->
+    <!--Aquarius :: Aries :: Astrology :: Cancer :: Capricorn :: Gemini :: Leo :: Libra ::
+    Pisces :: Sagittarius :: Scorpio :: Taurus :: Virgo-->
+    <string name="zodiac_aquarius">Aquarius</string>
+    <string name="zodiac_aries">Aries</string>
+    <string name="zodiac_astrology">Astrology</string>
+    <string name="zodiac_cancer">Cancer</string>
+    <string name="zodiac_capricon">Capricorn</string>
+    <string name="zodiac_gemini">Gemini</string>
+    <string name="zodiac_leo">Leo</string>
+    <string name="zodiac_libra">Libra</string>
+    <string name="zodiac_pisces">Pisces</string>
+    <string name="zodiac_sagittarius">Sagittarius</string>
+    <string name="zodiac_scorpio">Scorpio</string>
+    <string name="zodiac_taurus">Taurus</string>
+    <string name="zodiac_virgo">Virgo</string>
+
+    <!--Creatures-->
+    <!--Argus Panoptes :: Arion :: Ash Tree Nymphs :: Centaur :: Cerberus :: Ceryneian Hind :: Chimaera :: Chiron :: Chrysaor :: Cretan Bull :: Cyclopes ::
+    Delphyne :: Echidna :: Erymanthian Boar :: Giants :: Gorgons :: Hecatoncheires :: Laelaps ::
+    Marsyas :: Medusa :: Nessus :: Pegasus :: Phoenix :: Polyphemus : :: Python :: Silenus :: Sirens :: Talos :: Teumessian fox-->
+    <string name="creatures_argus">Argus Panoptes</string>
+    <string name="creatures_arion">Arion</string>
+    <string name="creatures_ash_ymphs">Ash Tree Nymphs </string>
+    <string name="creatures_centaur">Centaur </string>
+    <string name="creatures_cerberus">Cerberus </string>
+    <string name="creatures_ceryneian">Ceryneian Hind </string>
+    <string name="creatures_chimaera">Chimaera </string>
+    <string name="creatures_chiron">Chiron </string>
+    <string name="creatures_chrusaor">Chrysaor </string>
+    <string name="creatures_creatan_bull">Cretan Bull </string>
+    <string name="creatures_cyclopes">Cyclopes </string>
+
+    <string name="creatures_delphyne">Delphyne </string>
+    <string name="creatures_echidna">Echidna </string>
+    <string name="creatures_erymanthian">Erymanthian Boar </string>
+    <string name="creatures_giants">Giants </string>
+    <string name="creatures_gorgons">Gorgons </string>
+    <string name="creatures_hecatoncheires">Hecatoncheires </string>
+    <string name="creatures_laelaps">Laelaps </string>
+
+    <string name="creatures_marsyas">Marsyas </string>
+    <string name="creatures_medusa">Medusa </string>
+    <string name="creatures_nessus">Nessus </string>
+    <string name="creatures_pegasus">Pegasus </string>
+    <string name="creatures_phoenix">Phoenix </string>
+    <string name="creatures_polyphemus">Polyphemus </string>
+    <string name="creatures_python">Python </string>
+    <string name="creatures_silenus">Silenus </string>
+    <string name="creatures_sirens">Sirens </string>
+    <string name="creatures_talos">Talos </string>
+    <string name="creatures_teumessian_fox">Teumessian fox </string>
+
+
+    <!--Gigantes-->
+    <!--Alcyoneus :: Antaeus :: Enceladus :: Mimas :: Polybotes :: Porphyrion-->
+    <string name="gigantes_alcyoneus">Alcyoneus</string>
+    <string name="gigantes_antaeus">Antaeus</string>
+    <string name="gigantes_enceladus">Enceladus</string>
+    <string name="gigantes_mimas">Mimas</string>
+    <string name="gigantes_polybotes">Polybotes</string>
+    <string name="gigantes_porhpyrion">Porphyrion</string>
+
+    <!--Titans-->
+    <!--Asteria :: Astraeus :: Atlas :: Clymene :: Coeus :: Crius :: Cronus :: Dione :: Eos :: Epimetheus :: Eurybia ::
+    Eurynome :: Hyperion :: Iapetus :: Lelantos :: Menoetius :: Metis :: Mnemosyne :: Oceanus :: Ophion :: Pallas :: Perses ::
+    Phoebe :: Prometheus :: Rhea :: Selene :: Styx :: Tethys :: Thea :: Themis-->
+    <string name="titans_asteria">Asteria</string>
+    <string name="titans_astraeus">Astraeus</string>
+    <string name="titans_atlas">Atlas</string>
+    <string name="titans_clumene">Clymene</string>
+    <string name="titans_coeus">Coeus</string>
+    <string name="titans_crius">Crius</string>
+    <string name="titans_cronus">Cronus</string>
+    <string name="titans_dione">Dione</string>
+    <string name="titans_eos">Eos</string>
+    <string name="titans_epimetheus">Epimetheus</string>
+    <string name="titans_eurybia">Eurybia</string>
+
+    <string name="titans_eurynome">Eurynome</string>
+    <string name="titans_hyperion">Hyperion</string>
+    <string name="titans_iapetus">Iapetus</string>
+    <string name="titans_lelantos">Lelantos</string>
+    <string name="titans_menotius">Menoetius</string>
+    <string name="titans_metis">Metis</string>
+    <string name="titans_mnemosyne">Mnemosyne</string>
+    <string name="titans_oceanus">Oceanus</string>
+    <string name="titans_ophion">Ophion</string>
+    <string name="titans_pallas">Pallas</string>
+    <string name="titans_perses">Perses</string>
+
+    <string name="titans_phoebe">Phoebe</string>
+    <string name="titans_prometheus">Prometheus</string>
+    <string name="titans_rhea">Rhea</string>
+    <string name="titans_selene">Selene</string>
+    <string name="titans_styx">Styx</string>
+    <string name="titans_tethys">Tethys</string>
+    <string name="titans_thea">Thea</string>
+    <string name="titans_themis">Themis</string>
+
+    <!--Planets-->
+    <!--Constellations :: Jupiter :: Mars :: Mercury :: Moon :: Neptune :: Pluto :: Saturn :: Sun :: Uranus Planet :: Venus-->
+    <string name="planets_constellations">Constellations</string>
+    <string name="planets_jupiter">Jupiter</string>
+    <string name="planets_mars">Mars</string>
+    <string name="planets_mercury">Mercury</string>
+    <string name="planets_moon">Moon</string>
+    <string name="planets_neptune">Neptune</string>
+    <string name="planets_pluto">Pluto</string>
+    <string name="planets_saturn">Saturn</string>
+    <string name="planets_sun">Sun</string>
+    <string name="planets_uranus">Uranus</string>
+    <string name="planets_venus">Venus</string>
+
+
+</resources>

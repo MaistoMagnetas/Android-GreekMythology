@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.cactustree.pc.greek.PressedActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/pressedTitle"
+                android:textStyle="italic"
+                android:textColor="#d3000000"
+                android:textSize="50dp"
+                android:fontFamily="cursive"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/pressedImage"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/rounded_images"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:id="@+id/pressedDesc"
+                android:textColor="#d3000000"
+                android:textSize="15dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textStyle="italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="75dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-8551404096447570/7847059805"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
